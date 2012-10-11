@@ -10,7 +10,8 @@
 	   | JONI  |
 	   | JONI
 	   |       |
-           |nina   | 
+           |nina   |
+           |JONI   |
 	   /        \
 	  /   ____   \
 	  |  /    \  |
